@@ -1,7 +1,22 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>我的理想</h1>
-<p>大家好，我的理想是谈一百零八次恋爱。谢谢</p>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <div class="post">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <br><br>
+          <h3 class="h2 post-title">{{ post.title }}</h3>
+          <p class="post-summary">{{ post.summary }}</p>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
+  {% include pagination.html %}
+
+  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+</div>
