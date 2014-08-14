@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: yujiange的理想
 permalink: /about/
 ---
 
