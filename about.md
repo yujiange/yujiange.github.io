@@ -1,8 +1,17 @@
 ---
 layout: page
-title: yujiange的理想
+title: 这是我的女神，叫詹思祺，是以后的Adele
 permalink: /about/
 ---
-
 <image src="/images/zsq1.jpg">
-<p>大家好，我的理想是谈一百零八次恋爱。谢谢!</p>
+<br>
+<image src="/images/girl.jpg">
+<br>
+<p>女神的歌：</p>
+<audio src="/images/lover.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio>
+<p>请叫我詹詹的脑残粉！！</p>
+<p>我是一名程序员，我的理想是成为一个优秀的文学家。我的梦想就是牵上一条恶狗，带上几个帮闲的狗腿子，去街上调戏良家妇女，做一个无忧无虑的土豪。</p>
+<p>女神保佑我！！詹詹保佑我！</p>
+
