@@ -1,22 +1,12 @@
 ---
 layout: page
-title: 这是我的女神，叫詹思祺，是以后的Adele
+title: 个人简历
 permalink: /about/
 ---
-<image src="/images/zsq1.jpg">
-<br>
-<image src="/images/girl.jpg">
-<br>
-<p>女神的歌：</p>
-<p>情人节</p>
-<audio src="/images/lover.mp3" controls="controls">
-Your browser does not support the audio tag.
-</audio>
-<p>I can feel</p>
-<audio src="/images/feel.mp3" controls="controls">
-Your browser does not support the audio tag.
-</audio>
-<p>请叫我詹詹的脑残粉！！</p>
-<h2>我是一名程序员，我的理想是成为一个优秀的文学家。我的梦想就是牵上一条恶狗，带上几个帮闲的狗腿子，去街上调戏良家妇女，做一个无忧无虑的土豪。</h2>
-<p>女神保佑我！！詹詹保佑我！</p>
+<h3>工作经历：</h3>
+<p>2011.7-2013.5  外包  工作范围：主要是ecshop、cms的二次开发、切图、页面设计。</p>
+<p>2013.5-至今 公司研发 工作范围：和后台人员配合开发公司系统或网站的功能。</p>
+<h3>工作技能</h3>
+<p>熟练使用ps、sublime、Dreamweaver、vs开发设计网页。掌握html5、css3、javascript、jQuery来开发页面，懂php代码。熟练使用ajax调用数据（json或是xml格式）、有用jquery开发插件经验。熟练使用bootstrap构建响应式页面，对jQuery mobile、nodejs有了解。</p>
+<p>个人博客：yujiange.github.io（由于刚创建不久，没看的必要了~!~）</p>
 
